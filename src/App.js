@@ -23,7 +23,7 @@ function App(props) {
 
   return (
     <div>
-      <Header advanced="et döner" />
+      <Header />
       <Items items={hooks} />
     </div>
   )
